@@ -17,7 +17,7 @@
     * [11 系统限制和选项](linux_program/System_Limits_and_Options.md)
     * [12 系统和进程信息](linux_program/System_and_Process_Information.md)
 * [4.文件系统](file_systems/README.md)
-    * [13 文件i/o缓冲](file_systems/File_I/O_Buffering.md)
+    * [13 文件i/o缓冲](file_systems/File_IO_Buffering.md)
     * [14 文件系统](file_systems/File_Systems.md)
     * [15 文件属性](file_systems/File_Attributes.md)
     * [16 扩展属性](file_systems/Extended_Attributes.md)
